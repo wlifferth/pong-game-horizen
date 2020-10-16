@@ -59,6 +59,6 @@ Your app will be running on http://localhost:8000
 [Check this quick guide](https://github.com/MLH/pong-game-horizen/blob/master/TUTORIAL.md)
 
 ## Repl.it
-[![Run on Repl.it](https://repl.it/badge/github/MLH/pong-game-horizen)](https://repl.it/github/MLH/pong-game-horizen)
+[![Run on Repl.it](https://repl.it/badge/github/MLH/pong-game-horizen)](https://repl.it/github/wlifferth/pong-game-horizen)
 
 Make sure to create a `.env` file and configure your `ZEN_PONG_WALLET_SEED`.
